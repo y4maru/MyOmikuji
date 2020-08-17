@@ -28,3 +28,10 @@ body{
   box-shadow:0 5px 0 darkorange;
   margin-top:35px;
 }
+
+footer {
+  text-align:center;
+  font-size:14px;
+  margin-bottom:60px;
+  color:gray;
+}
