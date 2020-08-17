@@ -6,7 +6,7 @@
   btn.addEventListener('click', () =>{
     // const results=['大吉','中吉','凶'];
     // btn.textContent=results[Math.floor(Math.random() * results.length)];
-    const n =MAth.random();
+    const n =Math.random();
     if (n<0.05){
       btn.textcontent='まー';// 5%
     } else if(n<0.4){
