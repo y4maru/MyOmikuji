@@ -7,7 +7,7 @@
     // const results=['大吉','中吉','凶'];
     // btn.textContent=results[Math.floor(Math.random() * results.length)];
     const n =Math.random();
-    if (n<0.05){
+    if (n<0.1){
       btn.textcontent='まー';// 5%
     } else if(n<0.4){
       btn.textContent='大吉';//35%
