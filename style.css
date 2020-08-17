@@ -20,6 +20,10 @@ body{
 
 }
 
+div id{
+  cursor:pointer;
+}
+
 #btn:hover{
   opacity:0.9;
 }
