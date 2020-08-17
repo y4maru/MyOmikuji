@@ -17,7 +17,7 @@ body{
   cursor:pointer;
   box-shadow:0 10px 0 darkorange;
   user-select:none;
-
+  -webkit-appearance:none;
 }
 
 div id{
