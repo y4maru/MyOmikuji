@@ -16,7 +16,7 @@ body{
   font-size:42px;
   cursor:pointer;
   box-shadow:0 10px 0 darkorange;
-  user-select: select none;
+  user-select:none;
 
 }
 
@@ -32,6 +32,6 @@ body{
 footer {
   text-align:center;
   font-size:14px;
-  margin-bottom:60px;
+  margin-top:100px;
   color:gray;
 }
